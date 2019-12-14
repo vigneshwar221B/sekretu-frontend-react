@@ -1,0 +1,37 @@
+/* div{
+    border: thin red dotted;
+} */
+
+#logo {
+	font-family: 'Mansalva';
+	font-size: 26pt;
+}
+
+.webname {
+	font-family: 'Mansalva';
+}
+
+.col {
+	margin-top: 20px;
+}
+
+.btn-group {
+	margin-top: 40px;
+}
+
+.card-body {
+	margin-top: 60px;
+}
+
+.mycard {
+	margin-top: 40px !important;
+}
+
+/* .post-card {
+	margin: 0 auto;
+}
+
+.post-card-body {
+	display: flex;
+	justify-content: center;
+} */
